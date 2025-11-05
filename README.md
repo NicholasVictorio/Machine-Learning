@@ -111,15 +111,6 @@ pip install jupyter notebook
    - Each notebook includes evaluation metrics and visualizations
    - Classification reports, confusion matrices, and ROC curves are generated
 
-### Pre-trained Models
-
-All three trained models are available for use:
-
-- `Basic_CNN_model_corrosion_classifier.keras` 
-- `model_mobilenetv2_corrosion.keras` 
-- `model_resnet50_corrosion.keras` 
-
-
 ### Running the Streamlit Web Application
 
 1. **Prepare the Model**:
